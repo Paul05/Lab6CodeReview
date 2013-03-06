@@ -1,44 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Review id="Lab6">
-  <ReviewIssue id="HDYZAE2H">
-    <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:08:01:337 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:08:05:752 MST</LastModificationDate>
-    </ReviewIssueMeta>
-    <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
-    <File>src/banking/gui/Main.java</File>
-    <Type>item.label.unset</Type>
-    <Severity>item.label.unset</Severity>
-    <Summary></Summary>
-    <Description></Description>
-    <Annotation></Annotation>
-    <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
-    <Status>item.status.label.open</Status>
-  </ReviewIssue>
   <ReviewIssue id="HDYZSPDU">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:15:810 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:09:349 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:03:178 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>alicht</AssignedTo>
     <File line="56">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.missing</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing method comments(banner)</Summary>
     <Description>Missing banner
 </Description>
-    <Annotation></Annotation>
+    <Annotation>needs comment </Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZUVI6">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:57:054 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:13:418 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:50:464 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -47,15 +30,15 @@
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing comment (banner)</Summary>
     <Description>Missing banner</Description>
-    <Annotation></Annotation>
+    <Annotation>needs comment</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZVJAF">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:27:879 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:43:183 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:36:377 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -64,15 +47,15 @@
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing comment (banner)</Summary>
     <Description>Missing  banner</Description>
-    <Annotation></Annotation>
+    <Annotation>constructor</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.invalidWontfix</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZW36Q">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:53:666 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:11:544 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:27:251 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -81,15 +64,15 @@
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing method comment (banner)</Summary>
     <Description>Missing banner</Description>
-    <Annotation></Annotation>
+    <Annotation>constructor</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.invalidWontfix</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZWN57">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:19:531 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:34:554 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:14:989 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -98,49 +81,49 @@
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing method comments (banner)</Summary>
     <Description>Missing banner</Description>
-    <Annotation></Annotation>
+    <Annotation>constructor don't need banner</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.invalidWontfix</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZX7UY">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:46:378 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:26:34:364 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:54:382 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>cwroger</AssignedTo>
     <File line="3">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.missing</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing class banner</Summary>
     <Description>Missing class banner</Description>
-    <Annotation></Annotation>
+    <Annotation>banner</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZYXR6">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:27:06:594 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:27:53:394 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:45:349 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>alicht</AssignedTo>
     <File line="1">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.missing</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>Missing file comment banner</Summary>
     <Description>Missing file banner </Description>
-    <Annotation></Annotation>
+    <Annotation>file banner</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ045AX">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:31:09:657 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:31:54:570 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:16:233 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -149,15 +132,15 @@
     <Severity>item.severity.label.major</Severity>
     <Summary>Constant not capitalized</Summary>
     <Description>Constant and enums need to be capatalized</Description>
-    <Annotation></Annotation>
+    <Annotation>Capitalize</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ086ZG">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:18:460 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:38:747 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:08:58:777 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -166,49 +149,49 @@
     <Severity>item.severity.label.normal</Severity>
     <Summary>Non public needs _</Summary>
     <Description>Non public method needs underscore</Description>
-    <Annotation></Annotation>
+    <Annotation>Constructor</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.invalidWontfix</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ08UVA">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:49:414 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:32:570 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:08:42:740 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>cwroger</AssignedTo>
     <File line="6">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.major</Severity>
     <Summary>Missing underscore for private _</Summary>
     <Description>Missing underscore for private _</Description>
-    <Annotation></Annotation>
+    <Annotation>_</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0AVPK">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:23:816 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:44:321 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:08:29:839 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>alicht</AssignedTo>
     <File line="8">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.major</Severity>
     <Summary>Missing underscore for private _</Summary>
     <Description>Missing underscore</Description>
-    <Annotation></Annotation>
+    <Annotation>_</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0CIR9">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:37:40:341 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:34:551 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:07:53:288 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -217,60 +200,43 @@
     <Severity>item.severity.label.major</Severity>
     <Summary>First char should be lower case</Summary>
     <Description>First char should be lower case </Description>
-    <Annotation></Annotation>
+    <Annotation>constructor</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.invalidWontfix</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0DRGN">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:38:279 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:57:296 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:07:13:758 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>cwroger</AssignedTo>
     <File line="12">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>First char lowercase</Summary>
     <Description>First char lowecase on method</Description>
-    <Annotation></Annotation>
+    <Annotation>Lower</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0EA30">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:02:412 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:24:237 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:06:58:698 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
+    <AssignedTo>alicht</AssignedTo>
     <File line="8">src/banking/primitive/core/Checking.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.severity.label.normal</Severity>
     <Summary>First char lower case on method</Summary>
     <Description>First char should be lower case on method</Description>
-    <Annotation></Annotation>
+    <Annotation>Needs correct case</Annotation>
     <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
-    <Status>item.status.label.open</Status>
-  </ReviewIssue>
-  <ReviewIssue id="HDZ0OF9H">
-    <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:46:55:685 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:28:784 MST</LastModificationDate>
-    </ReviewIssueMeta>
-    <ReviewerId>pspaude</ReviewerId>
-    <AssignedTo>pspaude</AssignedTo>
-    <File line="56">src/banking/primitive/core/Checking.java</File>
-    <Type>item.type.label.codingStandards</Type>
-    <Severity>item.severity.label.normal</Severity>
-    <Summary></Summary>
-    <Description></Description>
-    <Annotation></Annotation>
-    <Revision></Revision>
-    <Resolution>item.label.unset</Resolution>
+    <Resolution>item.resolution.label.validNeedsfixing</Resolution>
     <Status>item.status.label.open</Status>
   </ReviewIssue>
 </Review>
