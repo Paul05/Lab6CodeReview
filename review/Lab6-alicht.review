@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="Lab6">
+  <ReviewIssue id="HDYZR6W5">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:05:189 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:36:547 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No File Banner</Summary>
+    <Description>All source code files must have a file banner comment present and filled in. This banner is available in the templates.java file. </Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZRYKL">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:41:061 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:03:287 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No Class Banner</Summary>
+    <Description>All public classes must have a class banner comment present and filled in. This banner is available in the templates.java file.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZSQ9B">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:16:943 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:46:39:178 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No File Banner</Summary>
+    <Description>All source code files must have a file banner comment present and filled in. This banner is available in the templates.java file. </Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZT6KQ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:38:090 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:58:989 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No Class Banner</Summary>
+    <Description>All public classes must have a class banner comment present and filled in. This banner is available in the templates.java file.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZU0IZ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:16:907 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:58:633 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No class Banner</Summary>
+    <Description>All public classes must have a class banner comment present and filled in. This banner is available in the templates.java file.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZV28Q">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:05:786 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:26:764 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="2">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>No File Banner</Summary>
+    <Description>All source code files must have a file banner comment present and filled in. This banner is available in the templates.java file.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZW6WD">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:58:477 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:19:957 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="11">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Missing Method Banner</Summary>
+    <Description>All public methods, except getter/setter methods, must have a method banner comment present and filled in. This banner is available in the templates.java file.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZZGU1">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:27:31:321 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:27:55:645 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="45">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>One line If</Summary>
+    <Description>All complex statements (if, else, switch, loops) must use explicit {} even if the body is a single line.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ05KH6">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:15:978 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:29:917 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="4">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Constant not upercase</Summary>
+    <Description>Constants and Enums should be in all CAPS (example: PI)</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ05Z2Q">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:34:898 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:53:470 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="6">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Enum not capatilized</Summary>
+    <Description>Constants and Enums should be in all CAPS (example: PI)</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ08JRQ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:35:030 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:55:002 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="5">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Private needs leading _</Summary>
+    <Description>Non-public methods, variables, and constants should be prefixed by a leading underscore _.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ098FL">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:06:993 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:35:354 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="5">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Constant needs to be in caps</Summary>
+    <Description>Constants and Enums should be in all CAPS (example: PI)</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0A91S">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:54:448 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:17:611 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="6">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Private attribute needs leading _</Summary>
+    <Description>Non-public methods, variables, and constants should be prefixed by a leading underscore _.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0B909">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:41:049 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:42:46:255 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="10">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Private entities need leading _</Summary>
+    <Description>Non-public methods, variables, and constants should be prefixed by a leading underscore _.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0CBUK">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:37:31:388 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:38:03:308 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="10">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Non constant initializer</Summary>
+    <Description>All literal values, except loop indices starting at 0 or 1 must be declared as constants.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0G2VM">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:26:386 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:53:163 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="36">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Single line IF</Summary>
+    <Description>All {} should appear with the { at the end of a line and } on its own line</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0H4TA">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:15:550 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:46:970 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="4">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Non Capatilized Constant</Summary>
+    <Description>Constants and Enums should be in all CAPS (example: PI)</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0KR73">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:04:527 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:35:566 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="47">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Brace locations</Summary>
+    <Description>All {} should appear with the { at the end of a line and } on its own line</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0NMAX">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:46:18:153 MST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:46:29:602 MST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>alicht</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="56">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Brace Locations</Summary>
+    <Description>All {} should appear with the { at the end of a line and } on its own line</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>
