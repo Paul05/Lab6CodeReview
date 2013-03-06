@@ -1,9 +1,29 @@
+/*
+  File:	Checking.java
+  Author:	foo
+  Date:	bar
+  
+  Description: baz
+*/
 package banking.primitive.core;
 
+
+
+/**
+Class:	Checking
+
+Description:	The checking class
+*/
+//Lab6cwroger added class header
 public class Checking extends Account {
 
+<<<<<<< HEAD
 	private static final long _SERIALVERSIONUID = 11L; //caps and _ lab6pspaude
 	private int _numWithdraws = 0; //added _ lab6pspaude
+=======
+	private static final long serialVersionUID = 11L;
+	private int _numWithdraws = 0; //Lab6cwroger added _
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
 	
 	/**
 	 * added comment lab6pspaude
@@ -55,8 +75,8 @@ public class Checking extends Account {
 			// KG: incorrect, last balance check should be >=
 			if (getState() == STATE.OPEN || (getState() == STATE.OVERDRAWN && balance > -100.0f)) {
 				balance = balance - amount;
-				numWithdraws++;
-				if (numWithdraws > 10)
+				_numWithdraws++;
+				if (_numWithdraws > 10)
 					balance = balance - 2.0f;
 				if (balance < 0.0f) {
 					setState(STATE.OVERDRAWN);

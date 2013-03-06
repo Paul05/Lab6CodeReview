@@ -2,8 +2,8 @@
 <Review id="Lab6">
   <ReviewIssue id="HDYZRXXC">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:40:224 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:15:346 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:40:224 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:15:346 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -19,8 +19,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDYZTGZP">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:51:589 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:17:133 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:51:589 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:17:133 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -36,8 +36,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDYZUFK4">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:36:388 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:50:733 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:36:388 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:50:733 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -53,8 +53,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDYZVNM6">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:33:486 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:54:069 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:33:486 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:54:069 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -70,8 +70,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDYZWIWC">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:14:028 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:44:889 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:14:028 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:44:889 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -87,8 +87,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ05V34">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:29:728 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:50:129 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:29:728 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:50:129 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -104,8 +104,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ07NIZ">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:33:53:243 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:06:269 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:33:53:243 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:06:269 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -121,8 +121,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ08O7U">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:40:794 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:55:213 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:40:794 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:55:213 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -138,8 +138,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ093V0">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:01:068 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:08:089 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:01:068 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:08:089 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -155,8 +155,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ09AUY">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:10:138 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:19:737 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:10:138 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:19:737 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -172,8 +172,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ09L1A">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:23:326 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:33:257 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:23:326 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:33:257 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -189,8 +189,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ09YTJ">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:41:191 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:49:421 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:41:191 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:49:421 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -206,8 +206,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0A769">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:52:017 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:59:639 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:52:017 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:59:639 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -223,8 +223,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0AFN6">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:02:994 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:11:326 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:02:994 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:11:326 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -240,8 +240,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0F074">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:36:256 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:49:419 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:36:256 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:49:419 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -257,8 +257,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0FC71">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:51:805 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:59:252 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:51:805 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:59:252 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -274,8 +274,13 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0FLWK">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:04:388 MST</CreationDate>
       <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:25:11:611 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:04:388 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:13:26:043 GMT-07:00</LastModificationDate>
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -291,8 +296,13 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0FXPU">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:19:698 MST</CreationDate>
       <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:25:04:809 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:19:698 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:49:398 GMT-07:00</LastModificationDate>
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -308,8 +318,13 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0HEBX">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:27:885 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:35:374 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:20:17:080 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:27:885 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:35:374 GMT-07:00</LastModificationDate>
+>>>>>>> 734a1f16f2a7d5bbcdbc69cdc40569c9f8156eef
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>alicht</AssignedTo>
@@ -319,14 +334,19 @@
     <Summary>should have a _</Summary>
     <Description></Description>
     <Annotation>_</Annotation>
-    <Revision></Revision>
+    <Revision>done!</Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0L0Z1">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:17:197 MST</CreationDate>
       <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:56:419 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:17:197 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:17:496 GMT-07:00</LastModificationDate>
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -342,8 +362,8 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0OXIN">
     <ReviewIssueMeta>
-      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:19:343 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:53:488 MST</LastModificationDate>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:19:343 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:17:36:327 GMT-07:00</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>cwroger</AssignedTo>
@@ -355,12 +375,17 @@
     <Annotation>brace</Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0R0KS">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:48:56:620 MST</CreationDate>
       <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:40:273 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:48:56:620 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:40:571 GMT-07:00</LastModificationDate>
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -376,8 +401,13 @@
   </ReviewIssue>
   <ReviewIssue id="HDZ0R8CC">
     <ReviewIssueMeta>
+<<<<<<< HEAD
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:06:684 MST</CreationDate>
       <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:24:486 MST</LastModificationDate>
+=======
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:06:684 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:33:957 GMT-07:00</LastModificationDate>
+>>>>>>> 1ebb02392982cf1ac21be66e24a2893267b69fcc
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
