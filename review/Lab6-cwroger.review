@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="Lab6">
+  <ReviewIssue id="HDYZRXXC">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:21:40:224 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:15:346 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="19">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.suggestion</Type>
+    <Severity>item.severity.label.minor</Severity>
+    <Summary>The comment</Summary>
+    <Description>This comment makes it seem wrong... I don't really see the issue though.</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZTGZP">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:22:51:589 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:17:133 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="24">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Multiple returns</Summary>
+    <Description>There are multiple returns in this method</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZUFK4">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:36:388 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:50:733 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="39">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>Multple returns</Summary>
+    <Description>There are multiple returns in this method</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZVNM6">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:33:486 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:54:069 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="42">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>commented issue</Summary>
+    <Description>The last balance should be &gt;=</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDYZWIWC">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:14:028 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:44:889 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="39">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.programLogic</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>should be &lt;</Summary>
+    <Description>The balance should not be overdrawn unless it is &lt; 0, not if it is &lt;= 0</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ05V34">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:29:728 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:32:50:129 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="1">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>missing file header</Summary>
+    <Description>from templates</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ07NIZ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:33:53:243 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:06:269 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="3">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>class banner</Summary>
+    <Description>No class banner</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ08O7U">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:40:794 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:55:213 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="7">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>all method banners missing</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ093V0">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:01:068 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:08:089 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="1">src/banking/primitive/core/Checking.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>missing file header</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ09AUY">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:10:138 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:19:737 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="3">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>missing class header</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ09L1A">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:23:326 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:33:257 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="8">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>all method headers missing</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ09YTJ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:41:191 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:49:421 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="1">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>file header missing</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0A769">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:52:017 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:35:59:639 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="3">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>class header missing</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0AFN6">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:02:994 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:36:11:326 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="13">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.missing</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>most method headers are missing</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0F074">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:36:256 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:49:419 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="64">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>name should be camel case</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0FC71">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:51:805 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:39:59:252 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="68">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>name should be camel case</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0FLWK">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:04:388 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:16:109 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="72">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>name should be camel case</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0FXPU">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:19:698 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:04:125 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="57">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>should have a _</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0HEBX">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:27:885 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:34:399 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="68">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>should have a _</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0JBDM">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:42:57:370 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:43:08:115 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="27">src/banking/primitive/core/Account.java</File>
+    <Type>item.label.unset</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary></Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0L0Z1">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:17:197 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:25:669 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="6">src/banking/primitive/core/Account.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>enum should be all caps</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0OXIN">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:19:343 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:47:35:522 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="47">src/banking/primitive/core/Savings.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>The } should be on the next line</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0R0KS">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:48:56:620 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:03:468 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="6">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Missing _</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+  <ReviewIssue id="HDZ0R8CC">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:06:684 GMT-07:00</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:14:173 GMT-07:00</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>cwroger</ReviewerId>
+    <AssignedTo>pspaude</AssignedTo>
+    <File line="5">src/banking/primitive/core/Checking.java</File>
+    <Type>item.type.label.codingStandards</Type>
+    <Severity>item.label.unset</Severity>
+    <Summary>Missing _</Summary>
+    <Description></Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>
