@@ -7,7 +7,7 @@
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="19">src/banking/primitive/core/Account.java</File>
+    <File line="21">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.suggestion</Type>
     <Severity>item.severity.label.minor</Severity>
     <Summary>The comment</Summary>
@@ -228,7 +228,7 @@
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="13">src/banking/primitive/core/Account.java</File>
+    <File line="15">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.missing</Type>
     <Severity>item.label.unset</Severity>
     <Summary>most method headers are missing</Summary>
@@ -245,7 +245,7 @@
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="64">src/banking/primitive/core/Account.java</File>
+    <File line="67">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
     <Summary>name should be camel case</Summary>
@@ -262,7 +262,7 @@
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="68">src/banking/primitive/core/Account.java</File>
+    <File line="72">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
     <Summary>name should be camel case</Summary>
@@ -275,11 +275,11 @@
   <ReviewIssue id="HDZ0FLWK">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:04:388 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:13:26:043 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:25:11:611 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="72">src/banking/primitive/core/Account.java</File>
+    <File line="75">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
     <Summary>name should be camel case</Summary>
@@ -287,16 +287,16 @@
     <Annotation>override of java method cannot change case to conevention </Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0FXPU">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:40:19:698 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:49:398 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:25:04:809 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
-    <File line="57">src/banking/primitive/core/Account.java</File>
+    <File line="58">src/banking/primitive/core/Account.java</File>
     <Type>item.type.label.codingStandards</Type>
     <Severity>item.label.unset</Severity>
     <Summary>should have a _</Summary>
@@ -304,7 +304,7 @@
     <Annotation>sdf</Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0HEBX">
     <ReviewIssueMeta>
@@ -326,7 +326,7 @@
   <ReviewIssue id="HDZ0L0Z1">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:44:17:197 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:17:496 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:56:419 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -336,9 +336,9 @@
     <Summary>enum should be all caps</Summary>
     <Description></Description>
     <Annotation>caps</Annotation>
-    <Revision></Revision>
+    <Revision>caps</Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0OXIN">
     <ReviewIssueMeta>
@@ -360,7 +360,7 @@
   <ReviewIssue id="HDZ0R0KS">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:48:56:620 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:40:571 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:40:273 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -372,12 +372,12 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validDuplicate</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0R8CC">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:49:06:684 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:11:33:957 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:23:24:486 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -389,6 +389,6 @@
     <Annotation></Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.validDuplicate</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
 </Review>

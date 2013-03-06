@@ -3,17 +3,19 @@ package banking.primitive.core;
 public abstract class Account implements java.io.Serializable {
     private static final long serialVersionUID = 1L;
 
-    protected enum State {
+    //caps lab6pspaude
+    protected enum STATE {
         OPEN, CLOSED, OVERDRAWN
     };
 
     protected float balance = 0.0F;
     protected String name;
-    private State state;
+    
+    private STATE state;
 
     protected Account(String n) {
         name = n;
-        state = State.OPEN;
+        state = STATE.OPEN;
     }
 
     protected Account(String n, float b) {
@@ -61,16 +63,18 @@ public abstract class Account implements java.io.Serializable {
      */
     public abstract String getType();
 
-    protected final State getState() {
+    //_ lab6pspaude
+    protected final STATE _getState() {
         return state;
     }
 
-    protected final void setState(State s) {
+    //_ lab6pspaude
+    protected final void _setState(STATE s) {
         state = s;
     }
 
     public String toString() {
-        return "Account " + name + " has $" + balance + "and is " + getState()
+        return "Account " + name + " has $" + balance + "and is " + _getState()
                 + "\n";
     }
 }

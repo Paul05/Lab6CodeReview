@@ -21,7 +21,7 @@
   <ReviewIssue id="HDYZUVI6">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:23:57:054 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:50:464 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:22:56:874 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -31,14 +31,14 @@
     <Summary>Missing comment (banner)</Summary>
     <Description>Missing banner</Description>
     <Annotation>needs comment</Annotation>
-    <Revision></Revision>
+    <Revision>added comment</Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZVJAF">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:27:879 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:36:377 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:20:55:038 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -48,14 +48,14 @@
     <Summary>Missing comment (banner)</Summary>
     <Description>Missing  banner</Description>
     <Annotation>constructor</Annotation>
-    <Revision></Revision>
+    <Revision>Added comment</Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZW36Q">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:24:53:666 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:27:251 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:20:35:569 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -65,14 +65,14 @@
     <Summary>Missing method comment (banner)</Summary>
     <Description>Missing banner</Description>
     <Annotation>constructor</Annotation>
-    <Revision></Revision>
+    <Revision>Added comment</Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZWN57">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:25:19:531 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:10:14:989 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:20:10:890 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -82,9 +82,9 @@
     <Summary>Missing method comments (banner)</Summary>
     <Description>Missing banner</Description>
     <Annotation>constructor don't need banner</Annotation>
-    <Revision></Revision>
+    <Revision>added comments</Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDYZX7UY">
     <ReviewIssueMeta>
@@ -123,7 +123,7 @@
   <ReviewIssue id="HDZ045AX">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:31:09:657 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:09:16:233 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:19:07:890 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -133,14 +133,14 @@
     <Summary>Constant not capitalized</Summary>
     <Description>Constant and enums need to be capatalized</Description>
     <Annotation>Capitalize</Annotation>
-    <Revision></Revision>
+    <Revision>Capatalized it. </Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ086ZG">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:34:18:460 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:08:58:777 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:17:59:890 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -152,7 +152,7 @@
     <Annotation>Constructor</Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ08UVA">
     <ReviewIssueMeta>
@@ -191,7 +191,7 @@
   <ReviewIssue id="HDZ0CIR9">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:37:40:341 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:07:53:288 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:17:45:678 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>pspaude</ReviewerId>
     <AssignedTo>pspaude</AssignedTo>
@@ -203,7 +203,7 @@
     <Annotation>constructor</Annotation>
     <Revision></Revision>
     <Resolution>item.resolution.label.invalidWontfix</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0DRGN">
     <ReviewIssueMeta>
