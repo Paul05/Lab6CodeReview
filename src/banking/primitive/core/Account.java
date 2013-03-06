@@ -65,7 +65,7 @@ public abstract class Account implements java.io.Serializable {
         return state;
     }
 
-    protected final void setState(State s) {
+    protected final void _setState(State s) {
         state = s;
     }
 

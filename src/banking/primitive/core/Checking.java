@@ -1,3 +1,10 @@
+/*
+  File:	Checking.java
+  Author:	foo
+  Date:	bar
+  
+  Description: baz
+*/
 package banking.primitive.core;
 
 public class Checking extends Account {

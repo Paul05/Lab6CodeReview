@@ -309,7 +309,7 @@
   <ReviewIssue id="HDZ0HEBX">
     <ReviewIssueMeta>
       <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 14:41:27:885 MST</CreationDate>
-      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:12:35:374 MST</LastModificationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2013-03-06 :: 15:20:17:080 MST</LastModificationDate>
     </ReviewIssueMeta>
     <ReviewerId>cwroger</ReviewerId>
     <AssignedTo>alicht</AssignedTo>
@@ -319,9 +319,9 @@
     <Summary>should have a _</Summary>
     <Description></Description>
     <Annotation>_</Annotation>
-    <Revision></Revision>
+    <Revision>done!</Revision>
     <Resolution>item.resolution.label.validNeedsfixing</Resolution>
-    <Status>item.status.label.open</Status>
+    <Status>item.status.label.resolved</Status>
   </ReviewIssue>
   <ReviewIssue id="HDZ0L0Z1">
     <ReviewIssueMeta>
